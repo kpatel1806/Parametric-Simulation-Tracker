@@ -1,0 +1,5 @@
+{
+  "name": "ParametricPlan.ai",
+  "description": "A progress tracking and quality control dashboard for large-scale IESVE parametric simulation plans, featuring Gemini-powered analysis of simulation gaps and QC requirements.",
+  "requestFramePermissions": []
+}
